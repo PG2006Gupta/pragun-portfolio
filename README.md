@@ -1,7 +1,7 @@
 # Pragun Gupta — Personal Portfolio
 
 Live website
-Open the live portfolio →
+https://pg2006gupta.github.io/pragun-portfolio/
 
 The site includes an animated entrance screen, project showcases, education, certificates, skills and contact information.
 
