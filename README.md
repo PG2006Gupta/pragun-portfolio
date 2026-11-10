@@ -1,5 +1,10 @@
 # Pragun Gupta — Personal Portfolio
 
+Live website
+Open the live portfolio →
+
+The site includes an animated entrance screen, project showcases, education, certificates, skills and contact information.
+
 A two-page, premium 3D portfolio: editorial typography, hand-written WebGL
 atmosphere, and interaction design built to feel alive without overwhelming the
 visitor. No frameworks, no build step, no external dependencies — open
